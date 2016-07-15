@@ -177,6 +177,6 @@ Module['FS_createPath']('/HTML5Test/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 144, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 144, "crunched": 0, "end": 293, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 293, "crunched": 0, "end": 16919765, "filename": "/HTML5Test/Content/Paks/HTML5Test-HTML5.pak"}], "remote_package_size": 16919765, "package_uuid": "9b8146d0-ea71-44a2-b843-8806c2813978"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 144, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 144, "crunched": 0, "end": 293, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 293, "crunched": 0, "end": 16919973, "filename": "/HTML5Test/Content/Paks/HTML5Test-HTML5.pak"}], "remote_package_size": 16919973, "package_uuid": "81493067-250f-40eb-beaf-ba345be18488"});
 
 })();
